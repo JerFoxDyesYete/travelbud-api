@@ -1,0 +1,1 @@
+'level' => env('LOG_LEVEL', 'debug'),
